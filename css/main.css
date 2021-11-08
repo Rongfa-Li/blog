@@ -1721,10 +1721,6 @@ pre code {
   position: fixed;
   z-index: 1300;
   left: 30px;
-  width: 24px;
-}
-.back-to-top span {
-  display: none;
 }
 @media (max-width: 991px) {
   .back-to-top {
@@ -2754,7 +2750,7 @@ mjx-container[display='true'] + br {
   vertical-align: middle;
 }
 .links-of-author a::before {
-  background: #fff;
+  background: #eecbd2;
   display: inline-block;
   margin-right: 3px;
   transform: translateY(-2px);
