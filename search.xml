@@ -3,8 +3,16 @@
   <entry>
     <title>语法教程</title>
     <url>/20211108/</url>
-    <content><![CDATA[<blockquote><p>幸福总是相似的，不幸却各有不同。    </p>
-<footer><strong>列夫托尔斯泰，《安娜·卡列尼娜》</strong><cite><span class="exturl" data-url="aHR0cHM6Ly93d3cuYmFpZHUuY29t">在线阅读<i class="fa fa-external-link-alt"></i></span></cite></footer></blockquote>]]></content>
+    <content><![CDATA[<h2 id="引用"><a href="#引用" class="headerlink" title="引用"></a>引用</h2><blockquote><p>幸福总是相似的，不幸却各有不同。    </p>
+<footer><strong>列夫托尔斯泰，《安娜·卡列尼娜》</strong><cite><span class="exturl" data-url="aHR0cHM6Ly93d3cuYmFpZHUuY29t">在线阅读<i class="fa fa-external-link-alt"></i></span></cite></footer></blockquote>
+
+<h2 id="代码块"><a href="#代码块" class="headerlink" title="代码块"></a>代码块</h2><figure class="highlight java"><figcaption><span>HelloWorld.java</span><span class="exturl" data-url="aHR0cHM6Ly93d3cuYmFpZHUuY29t">源代码<i class="fa fa-external-link-alt"></i></span></figcaption><table><tr><td class="code"><pre><span class="line"><span class="keyword">public</span> <span class="class"><span class="keyword">class</span> <span class="title">HelloWorld</span> </span>&#123;</span><br><span class="line">    <span class="function"><span class="keyword">public</span> <span class="keyword">static</span> <span class="keyword">void</span> <span class="title">main</span><span class="params">(String args[])</span> </span>&#123;</span><br><span class="line">        System.out.println(<span class="string">&quot;Hello World&quot;</span>);</span><br><span class="line">    &#125;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+
+<span class="exturl" data-url="aHR0cHM6Ly93d3cuYmFpZHUuY29tLw==" title="百度">百度一下，你就知道<i class="fa fa-external-link-alt"></i></span>
+
+<h2 id="代码加载"><a href="#代码加载" class="headerlink" title="代码加载"></a>代码加载</h2><figure class="highlight java"><figcaption><span>HelloWorld.java</span><a href="/downloads/code/HelloWorld.java">view raw</a></figcaption><table><tr><td class="code"><pre><span class="line"><span class="function"><span class="keyword">public</span> <span class="keyword">static</span> <span class="keyword">void</span> <span class="title">main</span><span class="params">(String args[])</span> </span>{</span><br><span class="line">        System.out.println(<span class="string">&quot;Hello World&quot;</span>);</span><br></pre></td></tr></table></figure>
+
+<a href="/20211108/" title="语法教程">语法教程</a>]]></content>
       <categories>
         <category>笔记</category>
       </categories>
